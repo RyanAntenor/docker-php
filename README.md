@@ -23,7 +23,13 @@ Set up a Docker Machine and then run:
 ```sh
 $ docker-compose up
 ```
-
+## Database 
+```
+Database: db_test
+Host: db
+User: admin
+Password: admin
+```
 ## License
 
 Copyright &copy; 2017 [Antenor Ryan](http://github.com/RyanAntenor). Licensed under the terms of the [MIT license](LICENSE.md).
